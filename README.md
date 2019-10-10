@@ -3,6 +3,7 @@
 <a href="https://www.usenix.org/conference/usenixsecurity19/presentation/blazytko"> <img align="right" width="200"  src="paper.png"> </a>
 
 
+
 Grimoire is coverage-guided fuzzer for structured input languages. It is built upon [Redqueen](https://github.com/RUB-SysSec/redqueen).
 
  The fuzzer is based on our [paper](https://www.usenix.org/system/files/sec19-blazytko.pdf) ([slides](https://www.usenix.org/sites/default/files/conference/protected-files/sec19_slides_blazytko.pdf), [recording](https://www.youtube.com/watch?v=VF9YcAnzMPI)):
