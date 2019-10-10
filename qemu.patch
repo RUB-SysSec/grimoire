@@ -1,0 +1,10 @@
+--- pt.c    2019-10-09 14:20:53.579872436 +0200
++++ pt_new.c    2019-10-09 14:08:58.030661810 +0200
+@@ -88,7 +88,7 @@
+ void pt_reset_bitmap(void){
+     if(bitmap){
+         last_ip = 0ULL;
+-        memset(bitmap, 0xff, kafl_bitmap_size);
++        memset(bitmap, 0x00, kafl_bitmap_size);
+     }
+ }
