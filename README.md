@@ -1,8 +1,5 @@
 # Grimoire: Synthesizing Structure while Fuzzing
-
 <a href="https://www.usenix.org/conference/usenixsecurity19/presentation/blazytko"> <img align="right" width="200"  src="paper.png"> </a>
-
-
 
 Grimoire is coverage-guided fuzzer for structured input languages. It is built upon [Redqueen](https://github.com/RUB-SysSec/redqueen).
 
